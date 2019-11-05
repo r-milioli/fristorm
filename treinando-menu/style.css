@@ -3,6 +3,7 @@
     padding: 0px;
     list-style: none;
     font-family:sans-serif;
+    font-size: 14px;
     
 }
 
@@ -16,4 +17,6 @@ a {
     justify-content: space-between;
     padding: 10px 30px;
     align-items: center;
+    
 }
+
